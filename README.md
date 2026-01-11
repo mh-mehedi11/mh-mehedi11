@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=36&duration=3000&pause=12000&color=00FFFF&center=true&vCenter=true&width=600&height=30&lines=Hey+there!+I'm+Mehedi+Hasan+🤖" alt="Name SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=36&duration=3000&pause=15000&color=00FFFF&center=true&vCenter=true&width=600&height=30&lines=Hey+there!+I'm+Mehedi+Hasan+🤖" alt="Name SVG" />
   
   <br/>
 
