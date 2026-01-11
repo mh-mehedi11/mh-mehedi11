@@ -25,7 +25,7 @@
   
   <samp>
     <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&duration=6000&pause=1000&color=FFFFFF&width=750&height=50&lines=%3E_FOCUS_::_Create_problems_to_be_the_ONLY_solution;%3E_METHOD_::_Use_entropy_as_raw_material_for_order;%3E_GOAL_::_Vanish_like_ash._Leave_steady_change." alt="Hacked Manifesto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&duration=6000&pause=1000&color=FFFFFF&size=32&width=750&height=50&lines=%3E_FOCUS_::_Create_problems_to_be_the_ONLY_solution;%3E_METHOD_::_Use_entropy_as_raw_material_for_order;%3E_GOAL_::_Vanish_like_ash._Leave_steady_change." alt="Hacked Manifesto" />
 </div>
     <i>Order is boring. I break things just to feel the physics of putting them back together</i>
   </samp>
