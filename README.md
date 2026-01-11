@@ -24,10 +24,10 @@
 <div align="left">
   
   <samp>
-    <b>Focus:</b> Pulling off problems & Creating problems just so I can be the only one to solve them.<br/>
-    <b>Method:</b> Turning sparks into steady change.<br/>
-    <b>Goal:</b> To vanish like ash, leaving only steady change in my wake.<br><br>
-    Order is boring. I break things just to feel the <br>physics of putting them back together
+    <div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&duration=6000&pause=1000&color=FFFFFF&width=750&height=50&lines=%3E_FOCUS_::_Create_problems_to_be_the_ONLY_solution;%3E_METHOD_::_Use_entropy_as_raw_material_for_order;%3E_GOAL_::_Vanish_like_ash._Leave_steady_change." alt="Hacked Manifesto" />
+</div>
+    <i>Order is boring. I break things just to feel the <br>physics of putting them back together</i>
   </samp>
 </div>
 
